@@ -1,0 +1,6 @@
+{
+  "name": "SpanCraft 3D — Structural Worksheet Vision & 3D Stress Simulator",
+  "description": "Convert 2D mechanical engineering bridge and truss worksheets into real-time 3D structural simulations with Direct Stiffness stress heatmaps, per-beam material customization, and interactive Joint Free Body Diagrams.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
